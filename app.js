@@ -8,6 +8,7 @@ const PORT = process.env.PORT || 3000;
 app.use(cors());
 
 app.use((req, res, next) => {
+	res.setHeader('Server', 'Nginx');
 	return res.send('Hello world!');
 });
 
