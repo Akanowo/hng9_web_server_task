@@ -1,0 +1,20 @@
+{
+	"name": "web_server_prep_task",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Akanowo/hng9_web_server_task.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Akanowo/hng9_web_server_task/issues"
+	},
+	"homepage": "https://github.com/Akanowo/hng9_web_server_task#readme"
+}
